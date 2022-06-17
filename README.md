@@ -14,15 +14,15 @@ https://paiza.io/projects/CQ7gDdId2T0S75UA-9ZX6g
 
 ---
 
-「.exe」が末尾についているファイルをダウンロードしてください
+「.exe」か「.jar」が末尾についているファイルをダウンロードしてください
 
-Please download the file with ".exe" at the end.
+Download the file that ends with ".exe" or ".jar".
 
 ---
 
-番号が大きいものほど新しいです　最も番号の大きいexeファイルをダウンロードしてください
+番号が大きいものほど新しいです　最も番号の大きいファイルをダウンロードしてください
 
-The higher the number, the newer it is. Please download the exe file with the highest number.
+The higher the number, the newer it is. Please download the file with the highest number.
 
 ---
 
